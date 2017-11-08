@@ -1,3 +1,7 @@
+### Machine Learning Algorithms from Scratch
+
+Ongoing effort to create common machine learning algorithms from scratch in Python.
+
 ```Python
 class PCA:
     """
